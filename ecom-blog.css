@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(255, 239, 221, 255);
+    /* height: 100vh; */
+}
+
+/* bootstrap nav edit */
+.navbar {
+    background-color: rgba(255, 239, 221, 255);
+    /* border-bottom: 3px solid black; */
+}
+
+/* navbar hamburger background */
+.navbar-collapse{
+    background-color: rgba(255, 239, 221, 255);
+}
+
+/* bootstrap nav edit */
+.container-fluid {
+    height: 8vh;
+}
+
+/* nav visual - red underline */
+.displaySep {
+    height: .5vh;
+    width: 86%;
+    align-items: center;
+    background-color: rgba(255, 87, 88, 255);
+    margin: 0 7% 0 7%;
+    bottom: -.5vh;
+    position: sticky;
+    position: absolute;
+    border-radius: 100px;
+}
+
+/* footer{
+    margin-top: 5vh;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgb(250, 122, 120);
+} */
+/* .bc-white{
+    color: white;
+} */

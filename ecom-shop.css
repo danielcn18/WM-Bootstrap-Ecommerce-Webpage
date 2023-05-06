@@ -1,0 +1,133 @@
+body {
+    background-color: rgba(255, 239, 221, 255);
+    /* height: 100vh; */
+}
+
+/* bootstrap nav edit */
+.navbar {
+    background-color: rgba(255, 239, 221, 255);
+    /* border-bottom: 3px solid black; */
+}
+
+/* navbar hamburger background */
+.navbar-collapse{
+    background-color: rgba(255, 239, 221, 255);
+}
+
+/* bootstrap nav edit */
+.container-fluid {
+    height: 8vh;
+}
+
+/* nav visual - red underline */
+.displaySep {
+    height: .5vh;
+    width: 86%;
+    align-items: center;
+    background-color: rgba(255, 87, 88, 255);
+    margin: 0 7% 0 7%;
+    bottom: -.5vh;
+    position: sticky;
+    position: absolute;
+    border-radius: 100px;
+}
+
+/* main container - shop */
+.main-container{
+    display: flex;
+    height: auto;
+    width: 100%;
+    margin-top: 15vh;
+    background-color: white;
+}
+
+/* left container */
+.main-container>.left-container{
+    height: 60vh;
+    width: 25%;
+    background-color: rgb(53, 122, 154);
+}
+
+/* right container */
+.main-container>.right-container{
+    height: auto;
+    width: 75%;
+    background-color: tomato;
+}
+
+.left-container>.left-container-pad{
+    height: auto;
+    width: 70%;
+    margin: 2.5vh auto 0 auto;
+    background-color: white;
+}
+
+.right-container>.right-container-pad{
+    height: auto;
+    width: 90%;
+    margin: 2.5vh auto 0 auto;
+    background-color: white;
+}
+
+.left-container-pad>.topic-seperation{
+    height: .3vh;
+    width: 90%;
+    margin: 1vh auto 1vh auto;
+    background-color: black;
+}
+
+/* shopping type search - gender */
+.left-container>.type-gender{
+    height: auto;
+    width: 100%;
+    background-color: rgb(27, 136, 183);
+}
+
+.accordion-button{
+    background-color: transparent;
+    color: black;
+    font-size: 1.18vw;
+}
+
+/* shopping type search - kids */
+.left-container>.type-kids{
+
+}
+
+/* shopping type search - shop by price */
+.left-container>.type-price{
+
+}
+
+/* shopping type search - color */
+.left-container>.type-color{
+
+}
+
+/* shopping type search - best for */
+.left-container>.type-best-for{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* footer{
+    margin-top: 5vh;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgb(250, 122, 120);
+} */
+
+/* .bc-white{
+    color: white;
+}
+ */

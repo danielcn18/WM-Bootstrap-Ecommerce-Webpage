@@ -1,0 +1,122 @@
+body {
+    background-color: rgba(255, 239, 221, 255);
+}
+
+/* bootstrap nav edit */
+.navbar {
+    background-color: rgba(255, 239, 221, 255);
+}
+
+/* navbar hamburger background */
+.navbar-collapse{
+    background-color: rgba(255, 239, 221, 255);
+}
+
+/* bootstrap nav edit */
+.container-fluid {
+    height: 8vh;
+}
+
+/* nav visual - red underline */
+.displaySep {
+    height: .5vh;
+    width: 86%;
+    align-items: center;
+    background-color: rgba(255, 87, 88, 255);
+    margin: 0 7% 0 7%;
+    bottom: -.5vh;
+    position: sticky;
+    position: absolute;
+    border-radius: 100px;
+}
+
+/* contact container */
+.contact-container{
+    height: auto;
+    width: 75%;
+    border-radius: 14px;
+    background-color: rgb(236, 128, 128);
+    background-image: linear-gradient(to bottom right, rgb(204, 84, 84), rgb(192, 82, 82), rgb(194, 75, 75));
+    margin-top: 18vh;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    padding-bottom: 3vh;
+}
+
+/* contact header */
+.contact-container>.contact-header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+/* contact header text */
+.contact-header>.contact-header-text{
+    font-size: 3.5vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+/* contact subheader */
+.contact-container>.contact-subheader{
+    width: 60%;
+    height: auto;
+    text-align: center;
+    font-size: 1.3vw;
+    color: white;
+    margin: 0 auto;
+} 
+
+/* contact form container */
+.contact-container>.contact-form-container{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+/* contact form */
+.contact-form-container>.contact-form{
+    position: relative;
+    height: auto;
+    width: 60%;
+    margin: 0 20% 0 20%;
+    /* border: 3px solid black; */
+}
+
+.form-label{
+    color: white;
+}
+
+.form-check-label{
+    color: white;
+}
+
+.form-text{
+    color: white;
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.btn-primary:hover{
+    background-color: rgba(0, 0, 0, 0.708);
+    border-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+/* footer tag */
+footer{
+    margin-top: 10vh;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgb(250, 122, 120);
+}
+
+/* background white - footer */
+.bc-white{
+    color: white;
+}

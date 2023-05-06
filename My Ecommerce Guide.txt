@@ -1,0 +1,18 @@
+Ecommerce Website - Daniel Chiquete
+
+-Requirements- 
+*Nav Bar*.
+*Home Page*.
+*About Page*.
+*Shop Page*: Web page needs a minimum of 10 images.
+*Contact Page*: Web page must have a form to get information from the user.
+*Consistent Footer*: All web pages should have a footer.
+
+-Wants-
+*'Shop by Blanket' Section*.
+
+-Other-
+*Boot Strap*: https://getbootstrap.com/docs/5.3/layout/css-grid/
+
+-Reference(s)-
+*Living Spaces*: https://www.livingspaces.com/?utm_source=google&utm_medium=cpc&utm_campaign=NB-General&adgroup=general-furniture&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVu-EXjT63_sUEEago8oWJEdvBSwD4eJ4RtbVT9uWVwe0NlaMgahNgMaAu6YEALw_wcB
