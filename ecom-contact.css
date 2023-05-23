@@ -15,7 +15,9 @@ body {
 /* bootstrap nav edit */
 .container-fluid {
     height: 8vh;
+    margin-left: 7%;
 }
+
 
 /* nav visual - red underline */
 .displaySep {
